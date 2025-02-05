@@ -1,5 +1,7 @@
 # QuantumResourcesTCI
 
+[![DOI](https://zenodo.org/badge/926563011.svg)](https://doi.org/10.5281/zenodo.14808255)
+
 QuantumResourcesTCI is the code repository for the paper *"Computing Quantum Resources using Tensor Cross Interpolation"* by Sven Benjamin Kožić and Gianpaolo Torre (2025). It is a numerical framework for computing quantum information quantifiers using Tensor Cross Interpolation (TCI).
 
 ## Dependencies
